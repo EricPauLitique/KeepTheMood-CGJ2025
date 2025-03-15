@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/ThomasScene.unity
+    guid: b6734b8253ada34429f4f8267fa1eff2
+  - enabled: 0
+    path: Assets/Scenes/Damien scene.unity
+    guid: 7ea58fddd7b3d9649a12be37d3d87f3c
+  - enabled: 0
+    path: Assets/Scenes/Propre.unity
+    guid: a1971ba45d069c543850369585b76caa
+  - enabled: 1
+    path: Assets/Scenes/Scene Tanguy.unity
+    guid: 078f3e01a750c544287efaabd2784034
+  m_configObjects: {}
