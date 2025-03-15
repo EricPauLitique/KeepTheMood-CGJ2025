@@ -29,5 +29,16 @@ En progressant, vous débloquerez **deux nouveaux instruments**, chacun ayant un
 ## Télécharger le jeu
 [KeepTheMood - itch.io](https://lucaslp12.itch.io/keepthemood)
 
+## Accéder au code
+Pour ouvrir le projet dans Unity :
+1. Assurez-vous d'avoir **Unity Hub** installé.
+2. Téléchargez le projet depuis le dépôt GitHub ou l'archive fournie.
+3. Ouvrez **Unity Hub**, cliquez sur "Ajouter" et sélectionnez le dossier du projet.
+4. Lancez le projet dans la version d'Unity recommandée pour éviter les incompatibilités.
+5. Accédez aux scripts via le dossier `Assets/Scripts` dans l'éditeur Unity.
+[KeepTheMood - itch.io](https://lucaslp12.itch.io/keepthemood)
+
 ## Licence
 Ce projet est sous licence libre. N'hésitez pas à contribuer et à partager vos idées !
+
+
