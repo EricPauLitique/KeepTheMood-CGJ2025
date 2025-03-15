@@ -1,7 +1,7 @@
 # KeepTheMood
 
 ## Informations Générales
-- **Temps du projet** : 24h (du 24/01 au 25/01)
+- **Temps du projet** : 24h (du 24/01/2025 au 25/01/2025)
 - **Tournoi CodeGameJam2025** : [Lien 1](https://cgj.bpaul.fr/) | [Lien 2](https://codegamejam.extragames.fr/editions-precedentes/edition-9-soon/)
 
 ## Présentation
