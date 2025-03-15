@@ -1,5 +1,9 @@
 # KeepTheMood
 
+## Informations Générales
+- **Temps du projet** : 24h (du 24/01 au 25/01)
+- **Tournoi CodeGameJam2025** : [Lien 1](https://cgj.bpaul.fr/) | [Lien 2](https://codegamejam.extragames.fr/editions-precedentes/edition-9-soon/)
+
 ## Présentation
 KeepTheMood est un jeu développé par l'équipe **ZeroGames**, où vous incarnez un instrument de musique voyageant dans l'espace. Votre mission est de préserver l'harmonie de votre mélodie face à des ennemis générant des sons discordants.
 
@@ -27,18 +31,16 @@ En progressant, vous débloquerez **deux nouveaux instruments**, chacun ayant un
 - **Design** : Eric Se, Halim Luquet
 
 ## Télécharger le jeu
-[KeepTheMood - itch.io](https://lucaslp12.itch.io/keepthemood)
+- [KeepTheMood - itch.io](https://lucaslp12.itch.io/keepthemood)
+- OU télécharger le répertoire **KeepTheMood** et ouvrir l'application : `Keep The Mood.exe`
 
 ## Accéder au code
-Pour ouvrir le projet dans Unity :
+### Ouvrir le projet dans Unity
 1. Assurez-vous d'avoir **Unity Hub** installé.
 2. Téléchargez le projet depuis le dépôt GitHub ou l'archive fournie.
 3. Ouvrez **Unity Hub**, cliquez sur "Ajouter" et sélectionnez le dossier du projet.
 4. Lancez le projet dans la version d'Unity recommandée pour éviter les incompatibilités.
 5. Accédez aux scripts via le dossier `Assets/Scripts` dans l'éditeur Unity.
-[KeepTheMood - itch.io](https://lucaslp12.itch.io/keepthemood)
 
 ## Licence
 Ce projet est sous licence libre. N'hésitez pas à contribuer et à partager vos idées !
-
-
